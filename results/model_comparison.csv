@@ -1,0 +1,4 @@
+Model,C-index (train),C-index (test),Features
+Cox PH,0.5914,0.5851,9
+RSF,0.7352,0.6552,9
+DeepSurv,0.7079,0.6342,9
